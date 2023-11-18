@@ -1,0 +1,77 @@
+﻿Evidence 1. Integrative Activity
+
+
+Integrantes
+
+
+Carlos Alberto Mendoza Medina A01661896
+Marco Iván Pacheco Martínez A01662421
+Arturo Carballo Arias A01662245
+Erick Trinidad Limón Ace A01735902
+
+
+
+
+Profesores
+
+
+Gerardo Ariel Castillo García
+Sergio Ruiz Loza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+○ At least 4 texture examples. 
+        There are more tha 4 textures on the unity, we can find them on various objects such as the street and sidewalks(recover from ModularLowpolyStreetsFree) or in the parking gates(recovered from devotid), we also use textures for our own cars such as the chevrolet logo for the car named “pipe”.
+○ At least 4 materials examples. 
+        The materials used in unity where a lot, we can mention some like the ones used on each car that every member of the team made, using the ProBuilder we created materials like redNascar, fire, rim and implemented them like materials. We can also find materiales made by ModularLowpolyStreetsFree that were used in the crosswalk, the road lines and borders of the sidewalks.
+○ At least 4 3D-models examples.  
+        There are 3D-models everywhere in the city, buildings like the parkgarage(recover from parkgarage), the parking fence(from parkindetails), the parkinspot and the cars are other examples that  were made by us.
+○ At least 1 semaphore example.  
+        The semaphore were taken from internet and are found in each point that required a semaphore(recovered from Tarbo-CITY-TrafficLights)
+○ At least 1 road example (asphalt) with signaling (pass and continuous lines).  
+        We use 2 type of roads, one for straight lines and one for curves(recover from ModularLowpolyStreetsFree)
+○ At least 1 example of pedestrian crossing, with proper signs.
+        We can find pedestrian crossing on each area that more than 3 way converted, the signs are found on the sidewalks(recover from ModularLowpolyStreetsFree) 
+○ At least 1 example of sideways.
+        There is only 1 sideway model that is use on every street(recover from ModularLowpolyStreetsFree)
+○ At least 1 example of buildings.
+        There are many buildings but we can mention the parkgarage(recover from parkgarage)
+○ At least 2 point light sources.
+        There are more than 2 point of light that we created and are found on the top of the city.
+○ The model of the crossing (roundabout) for cars. This must be as close as possible to the final solution.
+        The roundabout is found where it is supposed to be, the materials used are recover from ModularLowpolyStreetsFree.
+
+
+Carlos made the initial design of the city, Erick implemented the roads and crosswalk and the roundabout, Arturo and Marco Ivan put all the buildings on the city
+List of link of assets:
+https://www.turbosquid.com/es/3d-models/3d-mosque-model-1712996
+https://www.turbosquid.com/es/3d-models/3d-modern-house-model-2111702
+https://www.turbosquid.com/es/3d-models/building-model-2111695
+https://www.turbosquid.com/es/3d-models/apartment-building-6-3d-model-1435007
+https://www.turbosquid.com/es/3d-models/house-exterior-3d-model-1457020
+https://www.turbosquid.com/es/FullPreview/1392337
+https://assetstore.unity.com/packages/3d/environments/urban/city-traffic-lights-pack-free-low-poly-3d-art-154053
+https://assetstore.unity.com/packages/3d/props/parking-details-small-pack-126101
+https://assetstore.unity.com/packages/3d/environments/urban/modular-lowpoly-streets-free-192094
+https://assetstore.unity.com/packages/3d/environments/roadways/vehicle-parking-lot-garage-gate-pbr-111423
